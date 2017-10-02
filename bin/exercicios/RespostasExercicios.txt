@@ -1,0 +1,13 @@
+//Pagina 30
+1)O que é classe coesa?
+R: Classe que possui uma unica responsabilidade.
+
+2)Como fazer para detectar classes não coesas?
+R: Classes que possuem mais de uma responsabilidade.
+
+3)O que fazer com classes não coesas?
+R: Refatorar para que as mesmas possuam uma única responsabilidade.
+
+//Pagina 35
+4)Como fazer para resolver o problema do acoplamento?
+R: Através da criação de classes estáveis.
